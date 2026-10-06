@@ -1,0 +1,5 @@
+shipping_mode,total_shipments,avg_days_in_transit,min_days,max_days,avg_shipping_cost,total_shipping_spend,on_time_count,on_time_pct
+overnight,353,1.8,0.0,8.0,1607.67,567506.72,319,90.37
+express,921,5.2,1.0,13.0,919.39,846758.19,813,88.27
+standard,1046,11.7,0.0,22.0,389.77,407698.89,887,84.8
+economy,736,21.0,0.0,41.0,117.3,86334.47,558,75.82

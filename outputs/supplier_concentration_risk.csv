@@ -1,0 +1,31 @@
+supplier_name,total_orders,total_spend,spend_concentration_pct,order_concentration_pct,concentration_risk_level
+Global Tech Supply,491,8592470.0,15.22,0.0,MEDIUM RISK
+Shenzhen Precision Mfg,442,7834315.41,13.88,0.0,MEDIUM RISK
+Meridian Components,323,7071279.98,12.52,0.0,MEDIUM RISK
+Nordic Quality AB,292,5035216.19,8.92,0.0,LOW RISK
+Rapid Parts Express,247,4427271.45,7.84,0.0,LOW RISK
+Osaka Micro Systems,156,3067447.4,5.43,0.0,LOW RISK
+Pacific Rim Industrial,169,2867608.51,5.08,0.0,LOW RISK
+Stuttgart Werke GmbH,159,2626385.38,4.65,0.0,LOW RISK
+Wroclaw Fabrication,124,2359024.59,4.18,0.0,LOW RISK
+Penang Assembly Partners,124,2347082.63,4.16,0.0,LOW RISK
+Oakfield Supply Co,51,1163707.29,2.06,0.0,LOW RISK
+Junction Supply Group,57,880336.22,1.56,0.0,LOW RISK
+Northbridge Components,61,751913.86,1.33,0.0,LOW RISK
+Eastgate Trading Co,33,728353.5,1.29,0.0,LOW RISK
+Ironwood Manufacturing,47,726899.19,1.29,0.0,LOW RISK
+Summit Line Supply,24,722285.23,1.28,0.0,LOW RISK
+Harborview Components,35,569007.16,1.01,0.0,LOW RISK
+Delta Point Components,39,496174.27,0.88,0.0,LOW RISK
+Riverstone Industrial,36,451408.05,0.8,0.0,LOW RISK
+Fairmount Industrial,36,438499.29,0.78,0.0,LOW RISK
+Granite Peak Supply,32,423359.54,0.75,0.0,LOW RISK
+Apex Industrial Group,30,380993.52,0.67,0.0,LOW RISK
+Cascade Supply Partners,20,360433.23,0.64,0.0,LOW RISK
+Brightline Manufacturing,27,352738.99,0.62,0.0,LOW RISK
+Lakeside Industrial,17,350779.25,0.62,0.0,LOW RISK
+Keystone Fabrication,27,349993.48,0.62,0.0,LOW RISK
+Budget Source Imports,17,325330.5,0.58,0.0,LOW RISK
+Pinnacle Parts Group,21,284781.23,0.5,0.0,LOW RISK
+Quickship Surplus,20,262464.8,0.46,0.0,LOW RISK
+Lowcost Direct Ltd,18,210687.66,0.37,0.0,LOW RISK

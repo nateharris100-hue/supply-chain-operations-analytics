@@ -1,0 +1,71 @@
+product_name,category,quantity_on_hand,orders_count_6m,avg_orders_per_month,months_of_inventory,estimated_holding_cost_monthly
+NVMe Drive 2TB,Storage,176,485,80.83,2.2,7891.31
+Rack Rail Kit,Hardware,108,266,44.33,2.4,1396.98
+Barcode Scanner,Peripherals,22,218,36.33,0.6,1490.47
+Barcode Scanner,Peripherals,71,218,36.33,2.0,4810.14
+Circuit Breaker,Components,40,168,28.0,1.4,299.12
+Circuit Breaker,Components,47,168,28.0,1.7,351.47
+Heat Sink,Components,234,136,22.67,10.3,2834.56
+Ethernet Cable Cat6,Cables,250,116,19.33,12.9,479.38
+HDD 8TB,Storage,893,108,18.0,49.6,17109.88
+Mounting Bracket,Hardware,316,103,17.17,18.4,1874.99
+Cable Tray,Hardware,181,90,15.0,12.1,2735.91
+SSD 4TB,Storage,99,89,14.83,6.7,2052.32
+Inventory Tag Pack,Stationery,219,77,12.83,17.1,27.92
+Headset Stereo,Accessories,387,67,11.17,34.7,3095.81
+Voltage Regulator,Components,123,65,10.83,11.4,612.36
+GPU Module,Electronics,670,61,10.17,65.9,24088.17
+Scanner Flatbed,Peripherals,105,61,10.17,10.3,8986.79
+Docking Station,Accessories,14,56,9.33,1.5,103.68
+Shelving Unit,Furniture,62,55,9.17,6.8,2450.61
+Power Supply Unit,Electronics,29,48,8.0,3.6,1590.4
+Standing Desk,Furniture,46,48,8.0,5.8,1914.91
+Keyboard Mechanical,Accessories,196,47,7.83,25.0,1115.53
+RAM Memory 32GB,Storage,98,46,7.67,12.8,3836.94
+Office Chair,Furniture,22,45,7.5,2.9,726.78
+USB-C Cable,Cables,12,43,7.17,1.7,23.74
+USB-C Cable,Cables,28,43,7.17,3.9,55.38
+Mouse Wireless,Accessories,49,42,7.0,7.0,409.64
+Audio Module,Electronics,52,40,6.67,7.8,962.0
+Audio Module,Electronics,62,40,6.67,9.3,1147.0
+Sensor Array,Electronics,425,39,6.5,65.4,50870.38
+Carry Case,Accessories,223,37,6.17,36.2,273.84
+Capacitor Pack,Components,33,36,6.0,5.5,343.17
+Power Cord,Cables,83,34,5.67,14.6,118.61
+Monitor 27in,Peripherals,100,32,5.33,18.8,5121.45
+Monitor 27in,Peripherals,159,32,5.33,29.8,8143.11
+Document Sleeve,Stationery,213,32,5.33,39.9,83.5
+Controller Chip,Electronics,52,31,5.17,10.1,3332.47
+Controller Chip,Electronics,54,31,5.17,10.5,3460.64
+HDMI Cable 2m,Cables,58,29,4.83,12.0,30.45
+Webcam HD,Accessories,20,29,4.83,4.1,18.21
+Marker Set,Stationery,133,29,4.83,27.5,53.07
+Logic Board,Electronics,178,27,4.5,39.6,9172.61
+Memory Card 512GB,Storage,24,27,4.5,5.3,325.43
+Memory Card 512GB,Storage,41,27,4.5,9.1,555.94
+RAM Memory 64GB,Storage,14,26,4.33,3.2,442.01
+SSD 1TB,Storage,442,25,4.17,106.1,4295.8
+Ribbon Connector,Cables,528,24,4.0,132.0,677.16
+Display Panel,Electronics,396,23,3.83,103.3,36494.96
+Laser Printer,Peripherals,27,23,3.83,7.0,2311.12
+Rolling Cart,Furniture,349,22,3.67,95.2,18221.29
+Rolling Cart,Furniture,460,22,3.67,125.5,24016.6
+Storage Cabinet,Furniture,56,20,3.33,16.8,461.47
+Workbench Steel,Furniture,189,19,3.17,59.7,925.91
+Workbench Steel,Furniture,374,19,3.17,118.1,1832.23
+Bearing Assembly,Components,392,8,1.33,294.0,6100.11
+Enclosure Panel,Hardware,113,6,1.0,113.0,1747.38
+Cooling Fan,Components,209,4,0.67,313.5,2306.21
+Monitor 32in,Peripherals,260,4,0.67,390.0,4590.69
+Packing Tape,Stationery,118,3,0.5,236.0,81.07
+CPU Processor,Electronics,273,2,0.33,819.0,24823.48
+Label Printer,Peripherals,338,2,0.33,1014.0,4307.64
+Label Printer,Peripherals,361,2,0.33,1083.0,4600.76
+Relay Switch,Components,95,1,0.17,570.0,1336.03
+Fastener Set,Hardware,49,1,0.17,294.0,957.58
+Fastener Set,Hardware,65,1,0.17,390.0,1270.26
+Fiber Optic Patch,Cables,114,0,0.0,,106.59
+Fiber Optic Patch,Cables,133,0,0.0,,124.36
+Server Chassis,Hardware,398,0,0.0,,8318.4
+Server Chassis,Hardware,422,0,0.0,,8820.01
+Shipping Label Roll,Stationery,119,0,0.0,,69.67

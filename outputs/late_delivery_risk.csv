@@ -1,0 +1,120 @@
+supplier_name,shipping_mode,total_shipments,late_shipments,late_delivery_risk_pct,avg_days_late
+Budget Source Imports,economy,1,1,100.0,9.0
+Quickship Surplus,standard,5,4,80.0,5.4
+Lakeside Industrial,economy,6,4,66.67,4.0
+Pinnacle Parts Group,economy,3,2,66.67,4.0
+Budget Source Imports,overnight,2,1,50.0,1.0
+Budget Source Imports,standard,6,3,50.0,4.5
+Cascade Supply Partners,economy,6,3,50.0,1.3
+Lakeside Industrial,express,2,1,50.0,1.0
+Lowcost Direct Ltd,standard,4,2,50.0,0.8
+Quickship Surplus,economy,4,2,50.0,1.3
+Northbridge Components,economy,15,7,46.67,7.3
+Fairmount Industrial,economy,7,3,42.86,1.7
+Keystone Fabrication,economy,5,2,40.0,5.0
+Lakeside Industrial,standard,5,2,40.0,2.0
+Quickship Surplus,overnight,5,2,40.0,0.8
+Delta Point Components,economy,8,3,37.5,1.5
+Lowcost Direct Ltd,economy,8,3,37.5,0.5
+Keystone Fabrication,standard,11,4,36.36,2.0
+Shenzhen Precision Mfg,economy,91,32,35.16,2.5
+Fairmount Industrial,standard,15,5,33.33,1.4
+Stuttgart Werke GmbH,economy,31,10,32.26,1.8
+Riverstone Industrial,economy,10,3,30.0,1.5
+Oakfield Supply Co,overnight,7,2,28.57,2.1
+Penang Assembly Partners,standard,35,10,28.57,1.4
+Rapid Parts Express,economy,54,15,27.78,1.6
+Apex Industrial Group,standard,11,3,27.27,1.1
+Penang Assembly Partners,economy,31,8,25.81,1.6
+Ironwood Manufacturing,overnight,4,1,25.0,0.3
+Summit Line Supply,economy,4,1,25.0,1.8
+Northbridge Components,standard,21,5,23.81,1.0
+Junction Supply Group,economy,13,3,23.08,0.6
+Apex Industrial Group,express,9,2,22.22,1.1
+Granite Peak Supply,economy,9,2,22.22,0.9
+Junction Supply Group,express,18,4,22.22,0.8
+Wroclaw Fabrication,economy,36,8,22.22,0.8
+Osaka Micro Systems,economy,37,8,21.62,0.7
+Ironwood Manufacturing,express,14,3,21.43,1.4
+Shenzhen Precision Mfg,standard,161,34,21.12,1.2
+Pacific Rim Industrial,economy,34,7,20.59,1.4
+Rapid Parts Express,standard,89,18,20.22,1.6
+Brightline Manufacturing,express,5,1,20.0,1.4
+Wroclaw Fabrication,overnight,15,3,20.0,1.5
+Shenzhen Precision Mfg,express,123,24,19.51,1.4
+Shenzhen Precision Mfg,overnight,37,7,18.92,0.6
+Global Tech Supply,economy,115,21,18.26,1.1
+Osaka Micro Systems,express,44,8,18.18,0.7
+Budget Source Imports,express,6,1,16.67,2.5
+Harborview Components,economy,12,2,16.67,0.5
+Pinnacle Parts Group,overnight,6,1,16.67,0.8
+Meridian Components,economy,86,14,16.28,0.7
+Delta Point Components,standard,13,2,15.38,0.5
+Oakfield Supply Co,economy,13,2,15.38,0.7
+Pacific Rim Industrial,standard,52,8,15.38,1.0
+Penang Assembly Partners,overnight,13,2,15.38,0.8
+Wroclaw Fabrication,standard,33,5,15.15,0.6
+Junction Supply Group,standard,20,3,15.0,0.6
+Nordic Quality AB,economy,62,9,14.52,0.8
+Brightline Manufacturing,economy,7,1,14.29,0.9
+Delta Point Components,express,7,1,14.29,0.3
+Delta Point Components,overnight,7,1,14.29,0.1
+Harborview Components,express,7,1,14.29,2.7
+Ironwood Manufacturing,economy,14,2,14.29,0.4
+Summit Line Supply,express,7,1,14.29,1.1
+Pacific Rim Industrial,express,58,8,13.79,0.5
+Meridian Components,express,96,12,12.5,1.2
+Pinnacle Parts Group,standard,8,1,12.5,0.8
+Rapid Parts Express,overnight,25,3,12.0,1.6
+Rapid Parts Express,express,77,9,11.69,0.5
+Meridian Components,standard,95,11,11.58,1.0
+Stuttgart Werke GmbH,standard,53,6,11.32,0.4
+Cascade Supply Partners,standard,9,1,11.11,0.8
+Fairmount Industrial,express,9,1,11.11,0.3
+Keystone Fabrication,express,9,1,11.11,1.6
+Pacific Rim Industrial,overnight,19,2,10.53,0.4
+Global Tech Supply,standard,162,17,10.49,0.8
+Penang Assembly Partners,express,39,4,10.26,0.7
+Osaka Micro Systems,standard,50,5,10.0,0.7
+Global Tech Supply,express,142,14,9.86,0.4
+Stuttgart Werke GmbH,overnight,21,2,9.52,0.3
+Eastgate Trading Co,express,11,1,9.09,0.5
+Granite Peak Supply,standard,11,1,9.09,0.6
+Riverstone Industrial,express,11,1,9.09,0.7
+Wroclaw Fabrication,express,39,3,7.69,0.3
+Nordic Quality AB,standard,96,7,7.29,0.4
+Eastgate Trading Co,standard,14,1,7.14,0.1
+Ironwood Manufacturing,standard,14,1,7.14,0.1
+Oakfield Supply Co,express,15,1,6.67,0.2
+Stuttgart Werke GmbH,express,45,3,6.67,0.4
+Global Tech Supply,overnight,62,4,6.45,0.3
+Northbridge Components,express,16,1,6.25,0.3
+Nordic Quality AB,overnight,34,2,5.88,0.1
+Meridian Components,overnight,40,1,2.5,0.1
+Nordic Quality AB,express,88,2,2.27,0.0
+Apex Industrial Group,economy,7,0,0.0,0.0
+Apex Industrial Group,overnight,2,0,0.0,0.0
+Brightline Manufacturing,overnight,5,0,0.0,0.0
+Brightline Manufacturing,standard,8,0,0.0,0.0
+Cascade Supply Partners,express,4,0,0.0,0.0
+Cascade Supply Partners,overnight,1,0,0.0,0.0
+Eastgate Trading Co,economy,7,0,0.0,0.0
+Eastgate Trading Co,overnight,1,0,0.0,0.0
+Fairmount Industrial,overnight,3,0,0.0,0.0
+Granite Peak Supply,express,6,0,0.0,0.0
+Granite Peak Supply,overnight,4,0,0.0,0.0
+Harborview Components,overnight,4,0,0.0,0.0
+Harborview Components,standard,10,0,0.0,0.0
+Junction Supply Group,overnight,4,0,0.0,0.0
+Keystone Fabrication,overnight,1,0,0.0,0.0
+Lakeside Industrial,overnight,3,0,0.0,0.0
+Lowcost Direct Ltd,express,4,0,0.0,0.0
+Northbridge Components,overnight,4,0,0.0,0.0
+Oakfield Supply Co,standard,16,0,0.0,0.0
+Osaka Micro Systems,overnight,18,0,0.0,0.0
+Pinnacle Parts Group,express,4,0,0.0,0.0
+Quickship Surplus,express,6,0,0.0,0.0
+Riverstone Industrial,overnight,4,0,0.0,0.0
+Riverstone Industrial,standard,11,0,0.0,0.0
+Summit Line Supply,overnight,2,0,0.0,0.0
+Summit Line Supply,standard,8,0,0.0,0.0

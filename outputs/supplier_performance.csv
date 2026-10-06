@@ -1,0 +1,31 @@
+supplier_id,supplier_name,total_orders,delivered_shipments,on_time_rate_pct,avg_order_cost,total_spend,quality_score,lead_time_days,avg_days_late
+18,Eastgate Trading Co,33,33,93.94,22071.32,728353.5,5,8,-1.7
+3,Nordic Quality AB,292,280,92.86,17243.89,5035216.19,5,35,-1.5
+15,Brightline Manufacturing,27,25,92.0,13064.41,352738.99,4,42,-0.9
+21,Harborview Components,35,33,90.91,16257.35,569007.16,4,32,-0.9
+30,Summit Line Supply,24,21,90.48,30095.22,722285.23,3,37,-1.0
+27,Oakfield Supply Co,51,51,90.2,22817.79,1163707.29,3,22,-1.2
+20,Granite Peak Supply,32,30,90.0,13229.99,423359.54,5,24,-1.0
+29,Riverstone Industrial,36,36,88.89,12539.11,451408.05,5,28,-1.1
+2,Global Tech Supply,491,481,88.36,17499.94,8592470.0,4,21,-1.0
+5,Meridian Components,323,317,88.01,21892.51,7071279.98,3,18,-1.1
+7,Stuttgart Werke GmbH,159,150,86.0,16518.15,2626385.38,5,26,-1.1
+8,Osaka Micro Systems,156,149,85.91,19663.12,3067447.4,5,24,-1.2
+22,Ironwood Manufacturing,47,46,84.78,15465.94,726899.19,3,31,-0.9
+6,Pacific Rim Industrial,169,163,84.66,16968.1,2867608.51,3,32,-0.9
+10,Wroclaw Fabrication,124,123,84.55,19024.39,2359024.59,4,20,-1.1
+14,Apex Industrial Group,30,29,82.76,12699.78,380993.52,3,25,-0.4
+23,Junction Supply Group,57,55,81.82,15444.5,880336.22,3,26,-1.1
+4,Rapid Parts Express,247,245,81.63,17924.18,4427271.45,2,7,-0.2
+28,Pinnacle Parts Group,21,21,80.95,13561.01,284781.23,4,10,-0.4
+17,Delta Point Components,39,35,80.0,12722.42,496174.27,3,42,-0.9
+16,Cascade Supply Partners,20,20,80.0,18021.66,360433.23,4,22,-1.4
+9,Penang Assembly Partners,124,118,79.66,18928.09,2347082.63,2,38,-0.6
+26,Northbridge Components,61,56,76.79,12326.46,751913.86,3,37,0.7
+1,Shenzhen Precision Mfg,442,412,76.46,17724.7,7834315.41,4,28,0.0
+19,Fairmount Industrial,36,34,73.53,12180.54,438499.29,2,29,-0.6
+24,Keystone Fabrication,27,26,73.08,12962.72,349993.48,3,31,0.5
+12,Lowcost Direct Ltd,18,16,68.75,11704.87,210687.66,2,42,-0.8
+11,Budget Source Imports,17,15,60.0,19137.09,325330.5,1,46,2.5
+13,Quickship Surplus,20,20,60.0,13123.24,262464.8,1,9,0.3
+25,Lakeside Industrial,17,16,56.25,20634.07,350779.25,5,12,0.9
